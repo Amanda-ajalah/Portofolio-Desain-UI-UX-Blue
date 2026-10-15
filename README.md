@@ -1,10 +1,10 @@
 #### Preview
 
-- [Demo]()
+- [Demo](https://amanda-ajalah.github.io/Portofolio-Desain-UI-UX-Blue/)
 
 #### Download
 
-- [Download from Amandaajalah]()
+- [Download from Amandaajalah](https://github.com/Amanda-ajalah/Portofolio-Desain-UI-UX-Blue)
 
 ## Getting Started
 

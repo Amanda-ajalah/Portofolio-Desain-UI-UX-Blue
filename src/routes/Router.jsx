@@ -23,5 +23,5 @@ export const router = createBrowserRouter(
       ],
     },
   ],
-  { basename: `/${repoName}` }
+  { basename: "/Portofolio-Desain-UI-UX-Blue" },
 );
