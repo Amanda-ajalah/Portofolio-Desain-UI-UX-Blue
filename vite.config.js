@@ -6,6 +6,7 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, process.cwd(), "");
   return {
+    // Menentukan base path secara eksplisit untuk GitHub Pages
     base: "/Portofolio-Desain-UI-UX-Blue/",
     plugins: [react(), tailwindcss()],
     server: {
